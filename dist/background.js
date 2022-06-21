@@ -1,5 +1,5 @@
 
-console.log(chrome.bookmarks.getTree())
+// console.log(chrome.bookmarks.getTree())
 
 
 function getBookmarks(){
